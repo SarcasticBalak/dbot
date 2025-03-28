@@ -1,0 +1,28 @@
+{
+    "accounts": [
+        {
+            "name": "",
+            "token": "",
+            "servers": [
+                {
+                    "name": "Linera",
+                    "channel_id": "984941796272521229"
+                },
+                {
+                    "name": "Server2",
+                    "channel_id": "SERVER2_CHANNEL_ID"
+                }
+            ]
+        },
+        {
+            "name": "Yo",
+            "token": "",
+            "servers": [
+                {
+                    "name": "Mango",
+                    "channel_id": "1325005298951520257"
+                }
+            ]
+        }
+    ]
+}
