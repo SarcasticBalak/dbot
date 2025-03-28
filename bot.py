@@ -8,17 +8,37 @@ TOKEN = "YOUR_DISCORD_BOT_TOKEN"
 CHANNEL_IDS = [1123324986866806865]  
 
 MESSAGES = [
-    "Crypto never sleeps! What’s the latest alpha?",
-    "DeFi is evolving fast. Any interesting protocols to check out?",
-    "Bull or bear? What’s your take on the market today?",
-    "Any upcoming airdrops that are worth farming?",
-    "Anyone still holding their bags from 2021? 😅",
-    "Layer 2 scaling solutions are getting wild! Optimistic rollups or ZK rollups?",
-    "Ethereum gas fees are brutal today! Who else is waiting for L2 transactions?",
-    "Crypto is down bad today, time to buy or time to wait?",
-    "Imagine explaining DeFi to your grandparents. How would you do it?",
-    "What’s the best wallet for security and ease of use?"
-]
+    "Hey, are we early? 👀",
+    "How do I get a role here?",
+    "Where’s the roadmap? Need to see what’s cooking. 🔥",
+    "Is there a guide on how to start?",
+    "What’s the requirement to be eligible?",
+    "Did I miss it, or is it still open?",
+    "When’s the next update?",
+    "What’s next after this?",
+    "Who’s been here the longest?",
+    "How do I check my status?",
+    "Is there a way to track progress?",
+    "Can someone drop a step-by-step guide?",
+    "What’s the best way to stay updated?",
+    "Any perks for early members?",
+    "How do I invite friends to join?",
+    "What’s the official announcement channel?",
+    "Who do I contact if I have issues?",
+    "Is there a way to verify my account?",
+    "How do I know if I’m in?",
+    "What’s the timeline for this?",
+    "Where can I find the full details?",
+    "What’s the easiest way to get started?",
+    "Is there a checklist of things to do?",
+    "What’s the next step after signing up?",
+    "Are there different levels or tiers?",
+    "How do I know if I completed all the steps?",
+    "Is there a leaderboard or ranking?",
+    "What’s the most important thing to do right now?",
+    "Can someone confirm if everything is working fine?",
+    "What’s the most common mistake people make here?"
+    }
 
 HEADERS = {
     "Authorization": f"Bot {TOKEN}",  
